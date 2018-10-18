@@ -1,0 +1,10 @@
+[package]
+name = "gtk-rs"
+version = "0.1.0"
+authors = ["User"]
+edition = "2018"
+
+[dependencies]
+gtk = "^0"
+gio = "^0"
+chrono = "^0"
